@@ -1,4 +1,4 @@
 ﻿namespace Calculator.Math
 {
-    public enum BasicOperation { }
+    public enum BasicOperation { Add }
 }
